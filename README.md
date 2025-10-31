@@ -1,12 +1,4 @@
 🛢️ Oil Spill Detection Using Deep Learning
-
-
-
-
-
-
-
-
 📘 Overview
 
 This project focuses on detecting oil spills in satellite or aerial images using a Convolutional Neural Network (CNN) model.
