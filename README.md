@@ -110,9 +110,9 @@ Patila Yakshini
 B.Tech – Computer Science and Engineering (AIML)
 CMR Engineering College, Telangana
 
-🔗 LinkedIn (optional link)
+🔗 LinkedIn (www.linkedin.com/in/patila-yakshini)
 
-📧 patilayakshini@example.com
+📧 patilayakshini@gmail.com
 
 🪶 License
 
